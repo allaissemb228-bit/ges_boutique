@@ -218,14 +218,13 @@ Exemple :
 
 # 👨‍💻 Auteur
 
-**DJOUASSOUM MEMADJI HUGUES**
+**Allaissem Benjamin**
 
-Étudiant en Licence 2 Génie Informatique
+Étudiant en Licence 2 – Génie Informatique
 
-CBS - N'Djamena
+CBS – N'Djamena
 
----
-
+GitHub : https://github.com/allaissemb228-bit
 # 📜 Licence
 
 Ce projet est distribué sous la licence MIT.
